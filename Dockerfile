@@ -1,6 +1,6 @@
 
 FROM scratch
-EXPOSE 8081
+EXPOSE 80
 
 COPY http-server /
 
